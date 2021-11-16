@@ -1,0 +1,20 @@
+.group{
+    background: #335;
+    width: auto;
+    margin: 0 auto 20px;
+    display: flex;
+    grid-template-columns: 100px 80px;
+    border-radius: 15px;
+}
+input,select{
+    background: white;
+    border: solid 1px;
+    color: #282c34;
+}
+input{
+
+    padding-left: 10px;
+}
+select{
+    padding: 15px;
+}
